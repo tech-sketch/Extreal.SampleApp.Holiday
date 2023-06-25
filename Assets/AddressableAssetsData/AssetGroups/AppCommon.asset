@@ -29,20 +29,20 @@ MonoBehaviour:
     m_Address: AvatarConfig
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 01be83b37370043b5aa4f566a68c24a8
-    m_Address: ChatConfig
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 5c528fe4cce644ea5ae93856f9799a2a
-    m_Address: MultiplayConfig
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 89f63896761af4f09964f6077328ae7f
     m_Address: AvatarAmy
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e6ef667dda2754bb3a535247560e33d1
     m_Address: AvatarMichelle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01be83b37370043b5aa4f566a68c24a8
+    m_Address: ChatConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c528fe4cce644ea5ae93856f9799a2a
+    m_Address: MultiplayConfig
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
